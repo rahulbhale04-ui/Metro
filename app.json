@@ -3,6 +3,7 @@
     "name": "Metro",
     "slug": "metro-local-services",
     "version": "1.0.0",
+    "owner": "metrowhen",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
