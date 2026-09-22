@@ -20,7 +20,8 @@
     },
     "extra": {
       "eas": {
-        "projectId": "npm install --global eas-cli && npx create-expo-app metro && cd metro && eas init --id 6046a462-fa26-4cce-8273-844399854efc"
+        "projectId": "6046a462-fa26-4cce-8273-844399854efc
+        "
       }
     }
   }
