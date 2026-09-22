@@ -12,7 +12,7 @@ provider registration, dark mode — all saved on the phone (no server needed).
 1. Go to github.com → New repository (public or private) → upload every file
    and folder from this project as-is (keep the `src` folder structure).
 2. Go to expo.dev → your project → Configuration → connect it to that GitHub repo.
-3. In `app.json`, replace `PASTE-YOUR-EXPO-PROJECT-ID-HERE` with your real
+3. In `app.json`, replace `npm install --global eas-cli && npx create-expo-app metro && cd metro && eas init --id 6046a462-fa26-4cce-8273-844399854efc` with your real
    Expo project ID (shown on the project page) before uploading, or edit it
    directly on GitHub after uploading.
 4. Trigger a build: EAS Build → Android → profile **preview** (this makes an
