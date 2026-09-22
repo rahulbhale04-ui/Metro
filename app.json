@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Metro",
-    "slug": "metro-local-services",
+    "slug": "metro",
     "version": "1.0.0",
     "owner": "metrowhen",
     "orientation": "portrait",
